@@ -17,7 +17,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a **Software Developer** with a passion for open-source projects and collaborative development 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regularly write **technical articles** on various platforms
 - 💻 I use daily: **React**, **Angular**, **JavaScript**, **Python**, **SQL**, **DSA**
 - 📖 I write **reusable** and **clean code**
 - 💬 Talk to me about **technology**, **gaming**, and **startups**
